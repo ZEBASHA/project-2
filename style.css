@@ -184,3 +184,65 @@ div.names h1{
 	font-size: 2rem;
 	text-align: center;
 }
+/.................................................4 div end................................//
+/.................................................4 div start................................//
+.pre{
+	background: linear-gradient(160deg, #16c9f6 55%, #fff 0%);
+	padding: 50px 0;
+	margin-bottom: 50px;
+}
+.pre{
+	margin: 100px 0;
+}	
+
+.money{
+	font-size: 40px;
+	line-height: 1;
+	color: #606060;
+}
+
+.card-header{
+	font-size: 1.6rem;
+	font-weight: bold;
+	background: #fff!important;
+	padding: 25px 9!important;
+}
+
+.body{
+	padding: 30px 0px!important;
+}
+
+.body li{
+	margin: 10px 0;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 1.6;
+	color: #606060;
+}
+ .card-footer{
+	background: white!important;
+	padding: 30px 0px!important;
+}
+.card-footer a{
+	border: 1px solid #50d1co;
+	border-radius: 100px;
+	margin: 0 5px;
+	padding: 12px 35px;
+	outline: none;
+	color: #50d1co;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.4;
+	text-align: center;
+}
+.card-footer a:hover{
+	color: #50d1co;
+	background: white;
+	text-decoration: none;
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0,3);
+}
+
+/.................................................4 div end................................//
+
+
+
